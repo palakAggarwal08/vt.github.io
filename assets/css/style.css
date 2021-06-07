@@ -541,7 +541,9 @@ section {
 .section-bg {
   background-color: #f7fbfe;
 }
-
+.title11{
+  margin-top: 40px;
+}
 .section-title {
   text-align: center;
   padding-bottom: 30px;
@@ -952,8 +954,12 @@ section {
 /*--------------------------------------------------------------
 # Testimonials
 --------------------------------------------------------------*/
+
+
+
 .testimonials .testimonial-wrap {
   padding-left: 50px;
+  
 }
 
 .testimonials .testimonial-item {
@@ -1012,6 +1018,7 @@ section {
   font-style: italic;
   margin: 15px auto 15px auto;
 }
+
 
 .testimonials .owl-nav,
 .owl-dots {
